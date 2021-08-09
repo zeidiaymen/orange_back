@@ -1,0 +1,5 @@
+{
+  "mongo": {
+    "uri": "mongodb+srv://orange:2018@cluster0.u7ub9.mongodb.net/Orange?retryWrites=true&w=majority"
+  }
+}
